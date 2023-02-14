@@ -1,5 +1,8 @@
 # SampleDomain3
 
+![jhipster-jdl](https://user-images.githubusercontent.com/46955032/218736544-a2199828-203d-46aa-881e-0ddc051e34c8.png)
+
+
 This application was generated using JHipster 7.9.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.9.3](https://www.jhipster.tech/documentation-archive/v7.9.3).
 
 ## Project Structure
