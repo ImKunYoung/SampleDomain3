@@ -131,3 +131,8 @@ jhipster:
 # ===================================================================
 
 # application:
+
+# ===================================================================
+# Welcome Message
+welcome:
+  message: Welcome to the SampleDomain3 application! This is the Dev profile, which uses MariaDB as the database.
