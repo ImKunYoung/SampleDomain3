@@ -105,3 +105,8 @@ management:
   health:
     mail:
       enabled: false
+
+# ===================================================================
+# Welcome Message
+welcome:
+  message: Welcome to the SampleDomain3 application! This is the Default profile, which uses H2 in-memory database.
