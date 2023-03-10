@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mycompany.myapp</groupId>
-    <artifactId>sample-domain-3</artifactId>
+    <artifactId>sample-domain</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
     <name>Sample Domain 3</name>
